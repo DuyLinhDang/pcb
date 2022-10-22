@@ -1,0 +1,22 @@
+Added Component: Designator=J6(691214110003)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691214110003/Wurth+Elektronik/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691214110003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/691214110003/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691214110003/Wurth+Elektronik/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Itr_X1 Pin=J6-1
+Added Pin To Net: NetName=Itr_X1 Pin=STM1-32
+Added Net: Name=Itr_X1
+Added Pin To Net: NetName=Itr_Y1 Pin=J6-2
+Added Pin To Net: NetName=Itr_Y1 Pin=STM1-33
+Added Net: Name=Itr_Y1
+Added Pin To Net: NetName=Itr_Z1 Pin=J6-3
+Added Pin To Net: NetName=Itr_Z1 Pin=STM1-34
+Added Net: Name=Itr_Z1
+Added Member To Class: ClassName=sch Member=Component J6 Terminals
+Added Member To Class: ClassName=sch Member=Component TMC2 tmc2209
+Added Room: Name=sch
