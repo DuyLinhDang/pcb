@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\02_DOC\luan van tot nghiep\ban_ve_pcb\version_2\PCB_version2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_version2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_version2-slotholes.txt|DrillLayers=gtl,gbl
